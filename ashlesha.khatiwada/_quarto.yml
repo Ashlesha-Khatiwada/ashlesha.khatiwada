@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "ashlesha.khatiwada"
+  title: "Ashlesha Khatiwada"
   navbar:
     left:
       - href: index.qmd
