@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "research_site.html",
+    "href": "research_site.html",
+    "title": "ashlesha.khatiwada",
+    "section": "",
+    "text": "Teton\n\n\nCurrently, I am researching the factors influencing the mass balance of very small glaciers. Unlike larger glaciers, which are primarily impacted by regional climate and topography, small glaciers are more sensitive to local processes. Key factors such as topographic shading and debris cover play crucial roles in shielding these glaciers from solar radiation and wind distribution, while avalanches contribute additional mass. As these glaciers retreat into more protected cirque formations, their mass balance is less reflective of broader regional climate trends. A significant aspect of this project is to demonstrate that, although climate models predict the eventual disappearance of these glaciers in the coming decades, they may not accurately represent the behavior of smaller glaciers, as most models are based on larger glacier dynamics. Therefore, as glaciers retreat and smaller ones become more prevalent, it’s vital to understand the unique processes affecting these glaciers."
+  },
+  {
+    "objectID": "research_site.html#current-research-focus",
+    "href": "research_site.html#current-research-focus",
+    "title": "ashlesha.khatiwada",
+    "section": "",
+    "text": "Teton\n\n\nCurrently, I am researching the factors influencing the mass balance of very small glaciers. Unlike larger glaciers, which are primarily impacted by regional climate and topography, small glaciers are more sensitive to local processes. Key factors such as topographic shading and debris cover play crucial roles in shielding these glaciers from solar radiation and wind distribution, while avalanches contribute additional mass. As these glaciers retreat into more protected cirque formations, their mass balance is less reflective of broader regional climate trends. A significant aspect of this project is to demonstrate that, although climate models predict the eventual disappearance of these glaciers in the coming decades, they may not accurately represent the behavior of smaller glaciers, as most models are based on larger glacier dynamics. Therefore, as glaciers retreat and smaller ones become more prevalent, it’s vital to understand the unique processes affecting these glaciers."
+  },
+  {
+    "objectID": "research_site.html#past-research-focus",
+    "href": "research_site.html#past-research-focus",
+    "title": "ashlesha.khatiwada",
+    "section": "Past Research focus",
+    "text": "Past Research focus\n For my Masters, I investigated the surface deformation processes using a forward modeling software “LoadDef”. For field work I was learned how to install and maintain several GPS and weather station in Selway-Lochsa watershed.\nFor my masters, my first project compared four methods for modeling the elastic loading response of the Earth: a homogeneous, non-gravitating, half-space method; a homogeneous, gravitating, spherical method; a homogeneous, non-gravitating spherical method; and a radially stratified gravitating spherical method. Many studies have focused on computing vertical displacement due to uniform pressure applied over a region using a homogeneous linearly elastic half-space model. Although homogeneous, half-space models are simple and fast to implement, the model is less authentic than the more realistic gravitating, spherical models compared to Earth. As remote sensing data (e.g., Global Navigation Satellite System) improves in quality, we require more realistic models to interpret observations of Earth’s deformation response to surface loading. We quantify the empirical differences between half-space and spherical models at various load scales. We also consider the empirical analysis of the homogeneous half-space model by examining the ratio at both the center and the periphery of the disk load, comparing various implementations of the half-space problem, and contrast with the gravitating, spherical formulation, examining to what extent self-gravity affects the load solution.\nI also worked on investigating the deformation of other planetary bodies within our solar system. Like Earth, these celestial objects experience surface load redistribution and gravity-driven deformations. To quantify the deformation of these planetary bodies using a layered, gravitating, spherical model, we need to compute their load Love numbers (LLN) and load Green’s function (LGFs). While Earth’s LGFs have been well-studied, other planetary bodies, such as Venus, Mars, Ganymede, Europa, and Titan, still need to be explored in this aspect. Through an extensive literature review, we gather interior structure data for these celestial bodies and calculate their LGFs. With this knowledge, we can create models to simulate vertical displacement caused by variations in surface mass distribution, enriching our understanding of planetary deformations beyond Earth."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ashlesha Khatiwada",
+    "section": "",
+    "text": "Introduction\nI am a Ph.D. student in the Geoscience Department at Colorado State University, working under Dr. Dan McGrath. I joined the Cryosphere Group at CSU in 2023 to investigate the mass balances and processes driving accumulation and ablation rates in the Teton glaciers. Before my time at CSU, I attended the University of Montana for both my undergraduate and master’s degrees, focusing on Earth’s surface deformation using GPS instruments.\nI am deeply passionate about Geophysics and Cryosphere Sciences. Outside of school, I enjoy painting, hiking, bicycle riding, and cooking new dishes for my friends."
+  }
+]
