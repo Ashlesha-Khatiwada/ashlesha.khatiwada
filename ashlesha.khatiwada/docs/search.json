@@ -21,17 +21,17 @@
     "text": "Past Research focus\n For my Masters, I investigated the surface deformation processes using a forward modeling software “LoadDef”. For field work I was learned how to install and maintain several GPS and weather station in Selway-Lochsa watershed.\nFor my masters, my first project compared four methods for modeling the elastic loading response of the Earth: a homogeneous, non-gravitating, half-space method; a homogeneous, gravitating, spherical method; a homogeneous, non-gravitating spherical method; and a radially stratified gravitating spherical method. Many studies have focused on computing vertical displacement due to uniform pressure applied over a region using a homogeneous linearly elastic half-space model. Although homogeneous, half-space models are simple and fast to implement, the model is less authentic than the more realistic gravitating, spherical models compared to Earth. As remote sensing data (e.g., Global Navigation Satellite System) improves in quality, we require more realistic models to interpret observations of Earth’s deformation response to surface loading. We quantify the empirical differences between half-space and spherical models at various load scales. We also consider the empirical analysis of the homogeneous half-space model by examining the ratio at both the center and the periphery of the disk load, comparing various implementations of the half-space problem, and contrast with the gravitating, spherical formulation, examining to what extent self-gravity affects the load solution.\nI also worked on investigating the deformation of other planetary bodies within our solar system. Like Earth, these celestial objects experience surface load redistribution and gravity-driven deformations. To quantify the deformation of these planetary bodies using a layered, gravitating, spherical model, we need to compute their load Love numbers (LLN) and load Green’s function (LGFs). While Earth’s LGFs have been well-studied, other planetary bodies, such as Venus, Mars, Ganymede, Europa, and Titan, still need to be explored in this aspect. Through an extensive literature review, we gather interior structure data for these celestial bodies and calculate their LGFs. With this knowledge, we can create models to simulate vertical displacement caused by variations in surface mass distribution, enriching our understanding of planetary deformations beyond Earth."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Ashlesha Khatiwada",
     "section": "",
-    "text": "Introduction\nI am a Ph.D. student in the Geoscience Department at Colorado State University, working under Dr. Dan McGrath. I joined the Cryosphere Group at CSU in 2023 to investigate the mass balances and processes driving accumulation and ablation rates in the Teton glaciers. Before my time at CSU, I attended the University of Montana for both my undergraduate and master’s degrees, focusing on Earth’s surface deformation using GPS instruments.\nI am deeply passionate about Geophysics and Cryosphere Sciences. Outside of school, I enjoy painting, hiking, bicycle riding, and cooking new dishes for my friends."
+    "text": "Introduction\nI am a Ph.D. student in the Geoscience Department at Colorado State University, working under Dr. Dan McGrath. I joined the Cryosphere Group at CSU in 2023 to investigate the mass balances and processes driving accumulation and ablation rates in the Teton glaciers. Before my time at CSU, I attended the University of Montana for both my undergraduate and master’s degrees, focusing on Earth’s surface deformation using GPS instruments."
+  },
+  {
+    "objectID": "index.html#i-am-deeply-passionate-about-geophysics-and-cryosphere-sciences.-outside-of-school-i-enjoy-painting-hiking-bicycle-riding-and-cooking-new-dishes-for-my-friends.",
+    "href": "index.html#i-am-deeply-passionate-about-geophysics-and-cryosphere-sciences.-outside-of-school-i-enjoy-painting-hiking-bicycle-riding-and-cooking-new-dishes-for-my-friends.",
+    "title": "Ashlesha Khatiwada",
+    "section": "I am deeply passionate about Geophysics and Cryosphere Sciences. Outside of school, I enjoy painting, hiking, bicycle riding, and cooking new dishes for my friends.",
+    "text": "I am deeply passionate about Geophysics and Cryosphere Sciences. Outside of school, I enjoy painting, hiking, bicycle riding, and cooking new dishes for my friends."
   }
 ]
