@@ -20,4 +20,4 @@ Introduction
 
 I am a Ph.D. student in the Geoscience Department at Colorado State University, working under Dr. Dan McGrath. I joined the Cryosphere Group at CSU in 2023 to investigate the mass balances and processes driving accumulation and ablation rates in the Teton glaciers. Before my time at CSU, I attended the University of Montana for both my undergraduate and master's degrees, focusing on Earth's surface deformation using GPS instruments.
 
-## I am deeply passionate about Geophysics and Cryosphere Sciences. Outside of school, I enjoy painting, hiking, bicycle riding, and cooking new dishes for my friends.
+I am deeply passionate about Geophysics and Cryosphere Sciences. Outside of school, I enjoy painting, hiking, bicycle riding, and cooking new dishes for my friends.
